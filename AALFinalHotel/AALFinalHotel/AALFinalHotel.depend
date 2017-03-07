@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1484004536 source:c:\users\konradsob\desktop\przedmioty studia\aal\aalfinalhotel\aalfinalhotel\main.cpp
+	<iostream>
+	"Menu.h"
+
+1484349977 c:\users\konradsob\desktop\przedmioty studia\aal\aalfinalhotel\aalfinalhotel\include\menu.h
+	<vector>
+	"Person.h"
+	"Edge.h"
+
+1484091300 c:\users\konradsob\desktop\przedmioty studia\aal\aalfinalhotel\aalfinalhotel\include\person.h
+	<windows.h>
+	<vector>
+
+1484006903 c:\users\konradsob\desktop\przedmioty studia\aal\aalfinalhotel\aalfinalhotel\include\edge.h
+	"Person.h"
+
+1484090134 source:c:\users\konradsob\desktop\przedmioty studia\aal\aalfinalhotel\aalfinalhotel\src\aboutalgorithm.cpp
+	"AboutAlgorithm.h"
+	<vector>
+	<algorithm>
+	"Person.h"
+	"Edge.h"
+
+1484091300 c:\users\konradsob\desktop\przedmioty studia\aal\aalfinalhotel\aalfinalhotel\include\aboutalgorithm.h
+	<vector>
+	"Person.h"
+	"Edge.h"
+
+1484005021 source:c:\users\konradsob\desktop\przedmioty studia\aal\aalfinalhotel\aalfinalhotel\src\edge.cpp
+	"Edge.h"
+	"Person.h"
+
+1484648457 source:c:\users\konradsob\desktop\przedmioty studia\aal\aalfinalhotel\aalfinalhotel\src\menu.cpp
+	"Menu.h"
+	<iostream>
+	<vector>
+	<string>
+	"Person.h"
+	"Edge.h"
+	"Menu.h"
+	"AboutAlgorithm.h"
+	<windows.h>
+	<stdlib.h>
+	<chrono>
+	<thread>
+	<algorithm>
+	<set>
+
+1484004910 source:c:\users\konradsob\desktop\przedmioty studia\aal\aalfinalhotel\aalfinalhotel\src\person.cpp
+	"Person.h"
+
+1484007521 c:\users\konradsob\desktop\przedmioty studia\aal\aalfinalhotel\aalfinalhotel\include\inttolist.h
+
+1484007526 source:c:\users\konradsob\desktop\przedmioty studia\aal\aalfinalhotel\aalfinalhotel\src\inttolist.cpp
+	"intToList.h"
+
+1484348454 source:c:\users\konradsob\desktop\przedmioty studia\aal\aalfinalhotel\aalfinalhotel\src\kontener_par_bez_powtarzania.cpp
+	<cstdlib>
+	<iostream>
+	<ctime>
+	<set>
+
